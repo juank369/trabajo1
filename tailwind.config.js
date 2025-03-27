@@ -13,15 +13,19 @@ module.exports = {
       colors: {
         divRobot: "rgba(25, 25, 230, 0.2)",
         botonesIniciar:"rgb(30 64 175)",
+        azulb:"#525AF7",
+        verdeb:"#80ED99",
+        azulVerdeB:"#00B4D8",
+
       },
       animation:{
-        "loop-scroll":"loop-scroll 6s linear infinite"
+        "loop-scroll":"loop-scroll 15s linear infinite",
       },
       keyframes:{
         "loop-scroll":{
           from: {transform: "translateX(0)"},
-          to: {transform: "translateX(-30%)"}
-        }
+          to: {transform: "translateX(-50%)"}
+        },
       },
       backgroundImage: {
         "gradient-cover":

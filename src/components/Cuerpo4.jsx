@@ -2,7 +2,7 @@ import {iconoRedesCuerpo4} from "../data"
 
 
 export default function Cuerpo4(){
-    const carruselP=[...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4]
+    const carruselP=[...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4,...iconoRedesCuerpo4]
     return(
         <div className="bg-black text-white">
             <h2 className="text-center text-5xl pt-8">Plantillas Personalizadas</h2>

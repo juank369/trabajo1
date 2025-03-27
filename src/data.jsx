@@ -322,4 +322,7 @@ export const datosCuerpo6=[
         texto:"Exporte la copia generada como texto sin formato, PDF, Word o HTML."
 
     },
+
+
 ]
+

@@ -4,7 +4,7 @@ import {datosCarrusel1}from "../data"
 
 
 export default function Carrusel1(){
-    const carruselP=[...datosCarrusel1,...datosCarrusel1,...datosCarrusel1]
+    const carruselP=[...datosCarrusel1,...datosCarrusel1,...datosCarrusel1,...datosCarrusel1,...datosCarrusel1,...datosCarrusel1,...datosCarrusel1,...datosCarrusel1]
     return(
         <div className="overflow-hidden whitespace-nowrap mt-10">
             <div className="inline-flex space-x-16 animate-loop-scroll">
